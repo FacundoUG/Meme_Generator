@@ -1,5 +1,3 @@
-![image](https://github.com/FacundoUG/Meme_Generator/assets/71556057/7ec29f4e-2791-4ad2-b7c5-7247c255a419)# MEME GENERATOR
-
 Is a Interactive Meme Generator in a strucut of react
 
 Preview:
